@@ -28,5 +28,7 @@ console.log(valueInNumber2);
 let isBoolean = 1
 console.log(typeof isBoolean)
 //now converting it into boolean, for that declaring another variable
-let isBooleanNumber = Boolean(isBoolean)
-console.log(isBooleanNumber)
+    let isBooleanNumber = Boolean(isBoolean)
+    console.log(isBooleanNumber)
+
+//******************************************************  OPERATIONS   ************************************************ */
