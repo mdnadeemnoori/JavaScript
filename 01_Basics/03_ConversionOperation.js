@@ -23,3 +23,10 @@ console.log(typeof valueInNumber2);
 //In below line of code the valueInNumber2 returns value as NaN. why?, As we has changed the data type of above in number but still
 // we are not able to get the value from the below code
 console.log(valueInNumber2);
+
+//converting number into boolean
+let isBoolean = 1
+console.log(typeof isBoolean)
+//now converting it into boolean, for that declaring another variable
+let isBooleanNumber = Boolean(isBoolean)
+console.log(isBooleanNumber)
